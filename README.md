@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <h2 align="center">Hi 👋, I'm zjykzj</h2>
 <h3 align="center">Computer vision development engineer</h3>
 
-- 🌱 I’m currently learning Deep Learning and Compution Vision
+- 🌱 I’m  currently doing some work on AI and computer vision
+
+- 👯 I’m looking to collaborate on object detection/object classification/OCR/video understanding
 
 - 📝 I regularly write articles on [blog.zhujian.life](blog.zhujian.life)
 
