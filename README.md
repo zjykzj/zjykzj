@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 🌱 I’m  currently doing some work on AI and computer vision
+- 🌱 I’m  currently doing some work on VideoUnderstanding/ObjectClassification/OCR/ObjectDetection
 
-- 👯 I’m looking to collaborate on object detection/object classification/OCR/video understanding
+- 👯 I’m looking to collaborate on AI and Computer Vision
 
 - 📝 I regularly write articles on [blog.zhujian.life](blog.zhujian.life)
 
