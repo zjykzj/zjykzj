@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Computer vision engineer</h3>
 
 ### ✨ Quick Facts
-open source project
+
 - 🌱 I’m  currently doing some work on VideoUnderstanding/ObjectClassification/OCR/ObjectDetection
 
 - 👯 Welcome to [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc) to contribute your ideas
