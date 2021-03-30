@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hi 👋, I'm zjykzj</h2>
-<h3 align="center">Computer vision development engineer</h3>
+<h3 align="center">Computer vision engineer</h3>
 
 ### ✨ Quick Facts
-
+open source project
 - 🌱 I’m  currently doing some work on VideoUnderstanding/ObjectClassification/OCR/ObjectDetection
 
-- 👯 I’m looking to collaborate on AI and Computer Vision
+- 👯 Welcome to [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc) to contribute your ideas
 
 - 📝 I regularly write articles on [blog.zhujian.life](blog.zhujian.life)
 
