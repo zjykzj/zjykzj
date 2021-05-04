@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 🌱 I’m  currently doing some work on VideoUnderstanding/ObjectClassification/OCR/ObjectDetection
+- 🌱 I’m  currently doing some work on Action Recognition/Object Classification/Object Detection/OCR
 
 - 👯 Welcome to [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc) to contribute your ideas
 
