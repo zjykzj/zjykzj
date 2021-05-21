@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👯 Welcome to [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc) to contribute your ideas
 
-- 📝 I regularly write articles on [blog.zhujian.life](https://blog.zhujian.life/)
+- 📝 I regularly write articles on [https://blog.zhujian.life](https://blog.zhujian.life/)
 
 - 📫 How to reach me **wy163zhuj@163.com**
 
