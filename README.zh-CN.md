@@ -1,7 +1,7 @@
 <div align="right">
-  Language:
-    🇺🇸
-  <a title="Chinese" href="./README.zh-CN.md">🇨🇳</a>
+  语言:
+    🇨🇳
+  <a title="英语" href="./README.md">🇺🇸</a>
 </div>
 
 <!-- ### Hi there 👋 -->
@@ -21,20 +21,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi 👋, I'm zjykzj</h2>
-<h3 align="center">Computer vision engineer</h3>
+<h2 align="center">你好 👋, 我是zjykzj</h2>
+<h3 align="center">计算机视觉开发工程师</h3>
 
 ### ✨ Quick Facts
 
-- 🌱 I’m  currently doing some work on Action Recognition/Object Classification/Object Detection/OCR
+- 🌱 我当前参与的视觉项目包括动作识别/目标分类/目标检测/OCR
 
-- 👯 Welcome to [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc) to contribute your ideas
+- 👯 欢迎参与到[ZJCV](https://github.com/ZJCV)和[ZJDoc](https://github.com/ZJDoc)的开发
 
-- 📝 I regularly write articles on [https://blog.zhujian.life](https://blog.zhujian.life/)
+- 📝 博客网站：[https://blog.zhujian.life](https://blog.zhujian.life/)
 
-- 📫 How to reach me **wy163zhuj@163.com**
+- 📫 邮箱：**wy163zhuj@163.com**
 
-- 📄 Know about my experiences [about zjykzj](https://blog.zhujian.life/about/)
+- 📄 关于我的经历：[about zjykzj](https://blog.zhujian.life/about/)
 
 
 ### 🛠️ Languages and Tools:
