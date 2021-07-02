@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 🌱 我当前参与的视觉项目包括动作识别/目标分类/目标检测/OCR
+- 🔭 我目前就职于生鲜AI创业公司 - 由由科技
 
-- 👯 欢迎参与到[ZJCV](https://github.com/ZJCV)和[ZJDoc](https://github.com/ZJDoc)的开发
+- 🌱 我目前专注于目标识别算法、网络剪枝算法以及知识蒸馏算法的开发
+
+- 👯 欢迎参与到另外两个组织：[ZJCV](https://github.com/ZJCV)和[ZJDoc](https://github.com/ZJDoc)
 
 - 📝 博客网站：[https://blog.zhujian.life](https://blog.zhujian.life/)
 

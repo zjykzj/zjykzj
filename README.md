@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -26,16 +26,15 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 🌱 I’m  currently doing some work on Action Recognition/Object Classification/Object Detection/OCR
+- 🔭 I am currently working in the AI start-up company YOYO
 
-- 👯 Welcome to [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc) to contribute your ideas
+- 🌱 I'm currently focused on object classification and network acceleration
 
-- 📝 I regularly write articles on [https://blog.zhujian.life](https://blog.zhujian.life/)
+- 👯 Welcome to the other two organizations: [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc)
 
-- 📫 How to reach me **wy163zhuj@163.com**
+- 📫 How to reach me: **wy163zhuj@163.com**
 
-- 📄 Know about my experiences [about zjykzj](https://blog.zhujian.life/about/)
-
+- 📄 Know more: [about zjykzj](./profile.md)
 
 ### 🛠️ Languages and Tools:
 
