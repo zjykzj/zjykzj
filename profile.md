@@ -17,10 +17,15 @@ At present,  I focus on the development and optimization of object recognition a
 
 ## Open Source
 
+
 * [ ZJCV/ZCls](https://github.com/ZJCV/ZCls): Object Classification Training/Inferring Framework 
 * [ ZJCV/RotNet](https://github.com/ZJCV/RotNet): Image rotation correction based on DeepLearning
-* [ zjykzj/pnno](https://github.com/zjykzj/pnno): dataset or annotation file format conversion 
-* [ zjykzj/zlogo](https://github.com/zjykzj/zlogo): A tool using logo.svg and svglib to generate custom logo 
+* Pruning
+  * [ ZJCV/NetworkSlimming](https://github.com/ZJCV/NetworkSlimming): [ICCV 2017] Learning Efficient Convolutional Networks through Network Slimming 
+  * [ZJCV/SSL](https://github.com/ZJCV/SSL):  [NIPS 2016] Learning Structured Sparsity in Deep Neural Networks 
+* Tool
+  * [ zjykzj/pnno](https://github.com/zjykzj/pnno): dataset or annotation file format conversion 
+  * [ zjykzj/zlogo](https://github.com/zjykzj/zlogo): A tool using logo.svg and svglib to generate custom logo 
 
 ## Contact
 
