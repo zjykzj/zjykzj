@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently working in the AI start-up company YOYO
 
-- 🌱 I'm currently focused on object classification and network acceleration
+- 🌱 I'm currently focused on object classification, network pruning and knowledge transfer
 
 - 👯 Welcome to the other two organizations: [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc)
 

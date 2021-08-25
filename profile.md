@@ -3,7 +3,7 @@
 
 I am a computer vision development engineer. I am currently working with an AI startup company to develop recognition algorithms for fruits and vegetables.
 
-At present,  I focus on the development and optimization of object recognition algorithms, including object classification (coarse-grained and fine-grained), network pruning (Channel pruning) and knowledge distillation
+At present,  I focus on the development and optimization of object recognition algorithms, including object classification (coarse-grained and fine-grained), network pruning and knowledge transfer.
 
 ## Learning
 
