@@ -20,6 +20,9 @@ At present,  I focus on the development and optimization of object recognition a
 
 * [ ZJCV/ZCls](https://github.com/ZJCV/ZCls): Object Classification Training/Inferring Framework 
 * [ ZJCV/RotNet](https://github.com/ZJCV/RotNet): Image rotation correction based on DeepLearning
+* Distillating
+  * [ZJCV/KnowledgeReview](https://github.com/ZJCV/KnowledgeReview): [CVPR 2021] Distilling Knowledge via Knowledge Review
+  * [ ZJCV/overhaul](https://github.com/ZJCV/overhaul): [ICCV 2019] A Comprehensive Overhaul of Feature Distillation
 * Pruning
   * [ ZJCV/NetworkSlimming](https://github.com/ZJCV/NetworkSlimming): [ICCV 2017] Learning Efficient Convolutional Networks through Network Slimming 
   * [ZJCV/SSL](https://github.com/ZJCV/SSL):  [NIPS 2016] Learning Structured Sparsity in Deep Neural Networks 
