@@ -1,4 +1,7 @@
 
+<h2 align="center">Hi 👋, I'm zjykzj</h2>
+<h3 align="center">Computer vision engineer</h3>
+
 # About ME
 
 I am a computer vision development engineer. I am currently working with an AI startup company to develop recognition algorithms for fruits and vegetables.
