@@ -4,9 +4,7 @@
 
 # About ME
 
-I am a computer vision development engineer. I am currently working with an AI startup company to develop recognition algorithms for fruits and vegetables.
-
-At present,  I focus on the development and optimization of object recognition algorithms, including object classification (coarse-grained and fine-grained), network pruning and knowledge transfer.
+I am a computer vision development engineer. At present,  I focus on the development and optimization of object recognition algorithms, including object classification (coarse-grained and fine-grained), network pruning and knowledge transfer.
 
 ## Learning
 
@@ -15,8 +13,8 @@ At present,  I focus on the development and optimization of object recognition a
 
 ## Career
 
-* Computer vision development engineer (yoyo, 2021 - now): Identify vegetables and fruits
-* Machine vision development engineer (webace-i3c, 2020 - 2021): video understanding, object detection and OCR algorithm development
+* Computer vision development engineer (yoyo, 2021 - now): Algorithm development, including the optimization of reasoning time and detection accuracy of fresh identification algorithm, and the development of SDK to adapt NPU development board.
+* Machine vision development engineer (webace-i3c, 2020 - 2021): Engineering development, involving the fields of object detection, video understanding and OCR.
 
 ## Open Source
 
