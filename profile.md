@@ -1,22 +1,28 @@
 
-<h2 align="center">Hi 👋, I'm zjykzj</h2>
-<h3 align="center">Computer vision engineer</h3>
+# Zhu Jian's Homepage
+> From today on, be a happy person.
 
-# About ME
+## About ME
 
 I am a computer vision development engineer. At present,  I focus on the development and optimization of object recognition algorithms, including object classification (coarse-grained and fine-grained), network pruning and knowledge transfer.
 
-## Learning
+## Educations
 
-* master (2015-2019):  Computer science and technology, Zhejiang Sci-Tech University, China
-* bachelor (2011-2015): Electronic information science and technology, Zhejiang Sci-Tech University, China
+* 2015 - 2019
+  * Master of Computer Science and Technology from Zhejiang Sci-Tech University
+* 2011 - 2015
+  * Bachelor degree in electronic information science and technology from Zhejiang Sci-Tech University 
 
-## Career
+## Experiences
 
-* Computer vision development engineer (yoyo, 2021 - now): Algorithm development, including the optimization of reasoning time and detection accuracy of fresh identification algorithm, and the development of SDK to adapt NPU development board.
-* Machine vision development engineer (webace-i3c, 2020 - 2021): Engineering development, involving the fields of object detection, video understanding and OCR.
+* 2021 - Now
+  * Computer Vision Development Engineer in YOYO;
+  * Algorithm development, including the optimization of reasoning time and detection accuracy of fresh identification algorithm, and the development of SDK to adapt NPU development board.
+* 2021 - 2021
+  * Machine Vision Development Engineer in Webace-I3C;
+  * Engineering development, involving the fields of object detection, video understanding and OCR.
 
-## Open Source
+## Projects
 
 * [ ZJCV/ZCls](https://github.com/ZJCV/ZCls): Object Classification Training/Inferring Framework 
 * [ ZJCV/RotNet](https://github.com/ZJCV/RotNet): Image rotation correction based on DeepLearning
