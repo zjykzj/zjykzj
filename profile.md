@@ -9,9 +9,9 @@ I am a computer vision development engineer. At present,  I focus on the develop
 ## Educations
 
 * 2015 - 2019
-  * Master of Computer Science and Technology from Zhejiang Sci-Tech University
+  * Master Degree of Computer Science and Technology from Zhejiang Sci-Tech University
 * 2011 - 2015
-  * Bachelor degree in electronic information science and technology from Zhejiang Sci-Tech University 
+  * Bachelor Degree in Electronic Information Science and Technology from Zhejiang Sci-Tech University
 
 ## Experiences
 
