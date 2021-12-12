@@ -26,14 +26,16 @@ I am a computer vision development engineer. At present,  I focus on the develop
 
 * [ ZJCV/ZCls](https://github.com/ZJCV/ZCls): Object Classification Training/Inferring Framework 
 * [ ZJCV/RotNet](https://github.com/ZJCV/RotNet): Image rotation correction based on DeepLearning
-* Fine-grained
-  * [ ZJCV/DCL](https://github.com/ZJCV/DCL): [CVPR 2019] Destruction and Construction Learning for Fine-grained Image Recognition 
 * Distillating
   * [ZJCV/KnowledgeReview](https://github.com/ZJCV/KnowledgeReview): [CVPR 2021] Distilling Knowledge via Knowledge Review
   * [ ZJCV/overhaul](https://github.com/ZJCV/overhaul): [ICCV 2019] A Comprehensive Overhaul of Feature Distillation
 * Pruning
   * [ ZJCV/NetworkSlimming](https://github.com/ZJCV/NetworkSlimming): [ICCV 2017] Learning Efficient Convolutional Networks through Network Slimming 
-  * [ZJCV/SSL](https://github.com/ZJCV/SSL):  [NIPS 2016] Learning Structured Sparsity in Deep Neural Networks 
+  * [ZJCV/SSL](https://github.com/ZJCV/SSL):  [NIPS 2016] Learning Structured Sparsity in Deep Neural Networks
+* Face-recognition
+  * [ZJCV/facenet](https://github.com/ZJCV/facenet): [CVPR 2015] FaceNet: A Unified Embedding for Face Recognition and Clustering 
+* Fine-grained
+  * [ ZJCV/DCL](https://github.com/ZJCV/DCL): [CVPR 2019] Destruction and Construction Learning for Fine-grained Image Recognition 
 * Video Understanding
   * [ZJCV/X3D](https://github.com/ZJCV/X3D): [CVPR 2020] X3D: Expanding Architectures for Efficient Video Recognition 
   * [ZJCV/TSM](https://github.com/ZJCV/TSM): [ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding 
