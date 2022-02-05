@@ -17,7 +17,7 @@ I am a computer vision development engineer. At present,  I focus on the develop
 
 * 2021 - Now
   * Computer Vision Development Engineer in YOYO;
-  * Algorithm development, including the optimization of reasoning time and detection accuracy of fresh identification algorithm, and the development of SDK to adapt NPU development board.
+  * Algorithm development. Optimize the reasoning time and accuracy of fresh food recognition algorithm, the development of snack recognition algorithm and the deployment of NPU development board.
 * 2021 - 2021
   * Machine Vision Development Engineer in Webace-I3C;
   * Engineering development, involving the fields of object detection, video understanding and OCR.
