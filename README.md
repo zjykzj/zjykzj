@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently working in the AI start-up company YOYO
 
-- 🌱 I'm currently focused on object classification, metric learning, network pruning and knowledge transfer
+- 🌱 I am currently focusing on the identification of vegetables, fruits, dry goods and snacks. 
 
 - 👯 Welcome to the other two organizations: [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc)
 

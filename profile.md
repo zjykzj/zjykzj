@@ -4,7 +4,7 @@
 
 ## About ME
 
-I am a computer vision development engineer. At present,  I focus on the development and optimization of fresh and snack, including object classification (coarse-grained and fine-grained), metric learning, network pruning and knowledge transfer.
+I am a computer vision development engineer. I am currently focusing on the identification of vegetables, fruits, dry goods and snacks.
 
 ## Educations
 
