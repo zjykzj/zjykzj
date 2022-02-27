@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 我目前就职于生鲜AI创业公司 - 由由科技
 
-- 🌱 我目前专注于蔬菜、水果、干货和零食的识别
+- 🌱 我目前专注于边缘端图像搜索引擎的开发和部署
 
 - 👯 欢迎参与到另外两个组织：[ZJCV](https://github.com/ZJCV)和[ZJDoc](https://github.com/ZJDoc)
 
