@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently working in the AI start-up company YOYO
 
-- 🌱 I am currently focusing on the development and deployment of edge image search engine.
+- 🌱 I am currently focusing on the development and deployment of edge image search engine
 
 - 👯 Welcome to the other two organizations: [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc)
 
