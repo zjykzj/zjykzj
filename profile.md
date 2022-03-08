@@ -41,7 +41,7 @@ I am a computer vision development engineer. I am currently focusing on the deve
   * [ZJCV/X3D](https://github.com/ZJCV/X3D): [CVPR 2020] X3D: Expanding Architectures for Efficient Video Recognition 
   * [ZJCV/TSM](https://github.com/ZJCV/TSM): [ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding
 * Deploy
-  * [ zjykzj/onnx](https://github.com/zjykzj/onnx): pytorch -> onnx -> onnxruntime/openvino
+  * [ zjykzj/onnx](https://github.com/zjykzj/onnx): pytorch -> onnx -> onnxruntime/openvino/mnn
 * Tool
   * [ zjykzj/pnno](https://github.com/zjykzj/pnno): dataset or annotation file format conversion 
   * [ zjykzj/zlogo](https://github.com/zjykzj/zlogo): A tool using logo.svg and svglib to generate custom logo
