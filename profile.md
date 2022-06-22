@@ -4,7 +4,7 @@
 
 ## About ME
 
-I am a computer vision development engineer. I am currently focusing on the development and deployment of image retrieval engine in edge devices, including the identification of snacks, vegetables, fruits and dry goods, and model deployment on NPU development board.
+I am a computer vision engineer. I am currently focusing on the development and deployment of image retrieval engine in edge devices, including the identification of snacks, vegetables, fruits and dry goods, and model deployment on NPU development board.
 
 ## Educations
 
@@ -16,10 +16,10 @@ I am a computer vision development engineer. I am currently focusing on the deve
 ## Experiences
 
 * 2021 - Now
-  * Computer Vision Development Engineer in YOYO;
+  * Computer Vision Engineer in YOYO;
   * Responsible for the development and deployment of image retrieval engine in edge devices, including the identification of non-standard products such as snacks / vegetables / fruits / dry goods and the model deployment on NPU development board.
 * 2021 - 2021
-  * Machine Vision Development Engineer in Webace-I3C;
+  * Machine Vision Engineer in Webace-I3C;
   * Engineering development, involving the fields of object detection, video understanding and OCR.
 
 ## Projects
