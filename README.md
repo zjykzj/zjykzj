@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 - 🌱 I am currently focusing on the development and deployment of image retrieval engine in edge devices
 
-- 👯 Welcome to the other two organizations: [ZJCV](https://github.com/ZJCV) and [ZJDoc](https://github.com/ZJDoc)
+- 👯 Welcome to the other two organizations: <a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>  and <a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
 - 📫 How to reach me: **wy163zhuj@163.com**
 
-- 📄 Know more: [about zjykzj](./profile.md)
+- 📄 Know more: [Zhu Jian's Homepage](./profile.md)
 
 ### 🛠️ Languages and Tools:
 

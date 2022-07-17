@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 - 🌱 我目前专注于边缘端图像搜索引擎的开发和部署
 
-- 👯 欢迎参与到另外两个组织：[ZJCV](https://github.com/ZJCV)和[ZJDoc](https://github.com/ZJDoc)
+- 👯 欢迎参与到另外两个组织：<a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>和<a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
 - 📝 博客网站：[https://blog.zhujian.life](https://blog.zhujian.life/)
 
 - 📫 邮箱：**wy163zhuj@163.com**
 
-- 📄 关于我的经历：[about zjykzj](https://blog.zhujian.life/about/)
+- 📄 关于我的经历：[Zhu Jian's Homepage](https://blog.zhujian.life/about/)
 
 
 ### 🛠️ Languages and Tools:
