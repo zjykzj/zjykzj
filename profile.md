@@ -33,11 +33,11 @@ I am a computer vision engineer. I am currently focusing on the development and 
   * Video Classification
     * [ZJCV/X3D](https://github.com/ZJCV/X3D): [CVPR 2020] X3D: Expanding Architectures for Efficient Video Recognition
     * [ZJCV/TSM](https://github.com/ZJCV/TSM): [ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding
+  * Face Recognition
+    * [ZJCV/facenet](https://github.com/ZJCV/facenet): [CVPR 2015] FaceNet: A Unified Embedding for Face Recognition and Clustering
   * Image Retrieval
     * [zjykzj/SimpleIR](https://github.com/zjykzj/SimpleIR): A Simple Framework for Image Retrieval
     * [zjykzj/crow-pytorch](https://github.com/zjykzj/crow-pytorch): [ECCV 2016] Cross-dimensional weighting for aggregated deep convolutional features
-  * Face Recognition
-    * [ZJCV/facenet](https://github.com/ZJCV/facenet): [CVPR 2015] FaceNet: A Unified Embedding for Face Recognition and Clustering
 * Train
   * Distillating
     * [ZJCV/KnowledgeReview](https://github.com/ZJCV/KnowledgeReview): [CVPR 2021] Distilling Knowledge via Knowledge Review
