@@ -46,9 +46,10 @@ I am a computer vision engineer. I am currently focusing on the development and 
     * [ ZJCV/NetworkSlimming](https://github.com/ZJCV/NetworkSlimming): [ICCV 2017] Learning Efficient Convolutional Networks through Network Slimming
     * [ZJCV/SSL](https://github.com/ZJCV/SSL):  [NIPS 2016] Learning Structured Sparsity in Deep Neural Networks
 * Deploy
-  * [ zjykzj/onnx](https://github.com/zjykzj/onnx): pytorch -> onnx -> onnxruntime/openvino/mnn
+  * [zjykzj/onnx](https://github.com/zjykzj/onnx): Pytorch -> onnx -> onnxruntime/openvino/mnn
+  * [zjykzj/sis](https://github.com/zjykzj/sis): Simple image search engine
 * Tool
-  * [ zjykzj/pnno](https://github.com/zjykzj/pnno): dataset or annotation file format conversion 
+  * [ zjykzj/pnno](https://github.com/zjykzj/pnno): Dataset or annotation file format conversion 
   * [ zjykzj/zlogo](https://github.com/zjykzj/zlogo): A tool using logo.svg and svglib to generate custom logo
 * Other
   * [ ZJCV/RotNet](https://github.com/ZJCV/RotNet): Image rotation correction based on DeepLearning
