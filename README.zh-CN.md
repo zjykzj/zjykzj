@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 - 👯 欢迎参与到另外两个组织：<a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>和<a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
-- 📝 博客网站：[https://blog.zhujian.life](https://blog.zhujian.life/)
+- 📝 博客网站：[https://blog.zjykzj.cn](https://blog.zjykzj.cn/)
 
 - 📫 邮箱：**wy163zhuj@163.com**
 
-- 📄 关于我的经历：[Zhu Jian's Homepage](https://blog.zhujian.life/about/)
+- 📄 关于我的经历：[Zhu Jian's Homepage](https://blog.zjykzj.cn/about/)
 
 
 ### 🛠️ Languages and Tools:
