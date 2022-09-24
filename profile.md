@@ -37,6 +37,7 @@ I am a computer vision engineer. I am currently focusing on the development and 
     * [ZJCV/facenet](https://github.com/ZJCV/facenet): [CVPR 2015] FaceNet: A Unified Embedding for Face Recognition and Clustering
   * Image Retrieval
     * [zjykzj/SimpleIR](https://github.com/zjykzj/SimpleIR): A Simple Framework for Image Retrieval
+    * [zjykzj/multigrain-pytorch](https://github.com/zjykzj/multigrain-pytorch): MultiGrain: a unified image embedding for classes and instances
     * [zjykzj/crow-pytorch](https://github.com/zjykzj/crow-pytorch): [ECCV 2016] Cross-dimensional weighting for aggregated deep convolutional features
 * Train
   * Distillating
