@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 🔭 I am currently engaged in visual algorithm development at an AI recognition solution company YOYO in the **new retail** field
+- 🔭 I am currently working at YOYO, an AI startup in the new retail field
 
-- 🌱 My job is to develop accurate and fast **snack and fresh food recognition** algorithms on a low-performance development board
+- 🌱 My job is to develop algorithms for recognizing **snacks/vegetables/fruits/dried goods**
 
 - 👯 Welcome to the other two organizations: <a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>  and <a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 

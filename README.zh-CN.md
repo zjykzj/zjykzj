@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 🔭 我目前在一家人工智能识别解决方案公司YOYO从事新零售领域的视觉算法研发
+- 🔭 我当前工作在新零售领域AI创业公司YOYO
 
-- 🌱 我的工作是在低性能开发板上研发精准、快速的零食和生鲜识别算法
+- 🌱 我的工作是研发零食/蔬菜/水果/干货识别算法
 
 - 👯 欢迎参与到另外两个组织：<a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>和<a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
