@@ -6,7 +6,7 @@
 
 Since May 2021, Zhejiang Youyou Technology Co., Ltd., Computer Vision R&D Engineer
 
-* Senior engineer in the algorithm group, responsible for the development of recognition algorithms for non-standard products (snacks/fresh food), as well as the implementation of recognition engines.
+* Senior engineer in the algorithm group, responsible for the development of recognition algorithms for non-standard products (snacks/fresh/dishes), as well as the implementation of recognition engines.
 
 From June 2020 to May 2021, Jiangsu Wanwei Aisi Co., Ltd., image algorithm engineer
 
@@ -16,7 +16,7 @@ From June 2020 to May 2021, Jiangsu Wanwei Aisi Co., Ltd., image algorithm engin
 
 Yutoo AI
 
-* The identification solution installed on the label scale/PC scale accurately identifies over 2000 non-standard products (snacks/fruits/vegetables/dry goods). Yutoo AI is a core product of Youyou Technology Co., Ltd., which has covered over 10w sites as of 2023.
+* The non-standard product identification solution equipped on barcode scales/silver scales accurately identifies over 1000 types of snacks/fruits/vegetables/dry goods. Youtu AI is a core product of Youyou Technology Co., Ltd., which has covered over 10w sites as of 2023.
 
 ## Educations
 
