@@ -67,7 +67,8 @@ Deploy
 
 Custom Tools
 
-* [ zjykzj/pnno](https://github.com/zjykzj/pnno): Dataset or annotation file format conversion 
+* [zjykzj/cam](https://github.com/zjykzj/cam): Gradient-weighted Class Activation Mapping
+* [ zjykzj/pnno](https://github.com/zjykzj/pnno): Dataset or annotation file format conversion
 * [ zjykzj/zlogo](https://github.com/zjykzj/zlogo): A tool using logo.svg and svglib to generate custom logo
 * [ ZJCV/RotNet](https://github.com/ZJCV/RotNet): Image rotation correction based on DeepLearning
 
