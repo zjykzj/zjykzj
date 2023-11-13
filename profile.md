@@ -4,13 +4,17 @@
 
 ## Experiences
 
-Since May 2021, Zhejiang Youyou Technology Co., Ltd., Computer Vision R&D Engineer
+Since October 2023, Shanghai MYAI Tech Co., Ltd.
 
-* Senior engineer in the algorithm group, responsible for the development of recognition algorithms for non-standard products (snacks/fresh/dishes), as well as the implementation of recognition engines.
+* FOCUS ON CV PROJECTS.
 
-From June 2020 to May 2021, Jiangsu Wanwei Aisi Co., Ltd., image algorithm engineer
+From May 2021 to October 2023, Zhejiang Youyou Tech Co., Ltd.
 
-* R&D engineer in the Image team, specializing in research, development, and implementation of image related projects.
+* R&D engineer, R&D department, responsible for the development of recognition algorithms for non-standard products (snacks/fresh/dishes), as well as the implementation of recognition engines.
+
+From June 2020 to May 2021, Jiangsu Wanwei Aisi Co., Ltd.
+
+* Algorithm engineer, image algorithm department, specializing in research, development, and implementation of image related projects.
 
 ## Works
 
