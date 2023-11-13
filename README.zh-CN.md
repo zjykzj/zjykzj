@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 我当前在MYAI工作，专注于餐饮领域AI
 
-- 🌱 我的研究领域包括门店分析、安全性评估等等
+- 🌱 我的研究领域包括门店分析、安全监控等
 
 - 👯 欢迎参与另外两个组织：<a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>和<a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 

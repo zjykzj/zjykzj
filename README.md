@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently working at MYAI, focusing on AI in the catering industry
 
-- 🌱 My research areas include store analysis, security assessment, and more
+- 🌱 My research areas include store analysis, security monitoring, etc
 
 - 👯 Welcome to the other two organizations: <a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>  and <a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
