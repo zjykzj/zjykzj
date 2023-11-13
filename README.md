@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 🔭 I am currently working at YOYO, an AI startup in the new retail field
+- 🔭 I am currently working at MYAI, focusing on AI in the catering industry
 
-- 🌱 My job is to develop algorithms for recognizing **snacks/vegetables/fruits/dried goods**
+- 🌱 My work areas include passenger flow analysis, safety warning, and more
 
 - 👯 Welcome to the other two organizations: <a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>  and <a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📄 Know more: [Zhu Jian's Homepage](./profile.md)
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools: 
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 

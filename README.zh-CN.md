@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 🔭 我当前工作在新零售领域AI创业公司YOYO
+- 🔭 我当前在MYAI工作，专注于餐饮领域AI
 
-- 🌱 我的工作是研发零食/蔬菜/水果/干货识别算法
+- 🌱 我的工作方向包括客流分析、安全性预警等等
 
-- 👯 欢迎参与到另外两个组织：<a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>和<a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
+- 👯 欢迎参与另外两个组织：<a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>和<a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
 - 📝 博客网站：[https://blog.zjykzj.cn](https://blog.zjykzj.cn/)
 
