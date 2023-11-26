@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hi 👋, I'm zjykzj</h2>
-<h3 align="center">Computer vision engineer</h3>
+<h3 align="center">FOCUS ON COMPUTER VISION</h3>
 
 ### ✨ Quick Facts
 

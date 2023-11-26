@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">你好 👋, 我是zjykzj</h2>
-<h3 align="center">计算机视觉开发工程师</h3>
+<h3 align="center">专注于计算机视觉</h3>
 
 ### ✨ Quick Facts
 
 - 🔭 我当前在MYAI工作，专注于餐饮领域AI
 
-- 🌱 我的研究领域包括门店分析、安全监控等
+- 🌱 我的研究领域包括门店分析、安全监控等视觉项目
 
 - 👯 欢迎参与另外两个组织：<a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>和<a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
