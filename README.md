@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 🔭 I am currently working at MYAI, focusing on AI in the catering industry
+- 🔭 I work at MYAI in Shanghai, focusing on developing computer vision algorithms for the food industry.
 
-- 🌱 My research areas include store analysis, security monitoring, etc
+- 🌱 I specialize in computer vision and have contributed to product development and implementation in both retail and culinary sectors.
 
 - 👯 Welcome to the other two organizations: <a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>  and <a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
 - 📫 How to reach me: **wy163zhuj@163.com**
 
-- 📄 Know more: [Zhu Jian's Homepage](./profile.md)
+- 📄 Explore further: [Zhu Jian's Homepage](./profile.md)
 
 ### 🛠️ Languages and Tools: 
 
