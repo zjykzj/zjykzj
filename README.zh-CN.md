@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 🔭 我目前在上海的MYAI工作，具体内容是餐饮领域的CV算法研发
+- 🔭 我目前工作在上海的MYAI，一家餐饮领域的AI科技企业
 
-- 🌱 我的专业是计算机视觉，参与过新零售领域和餐饮领域的产品研发和落地
+- 🌱 目前我正在参与餐饮领域的AI产品研发，之前从事的是新零售AI产品的研发
 
 - 👯 欢迎参与另外两个组织：<a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>和<a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
