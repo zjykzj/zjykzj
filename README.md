@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently working on AI product development for the catering.
 
-- 🌱 Previously, I developed AI algorithms for identifying snacks/vegetables/fruits at YOYO..
+- 🌱 Previously, I developed AI algorithms for identifying snacks/vegetables/fruits at YOYO.
 
 - 👯 Welcome to the other two organizations: <a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>  and <a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
