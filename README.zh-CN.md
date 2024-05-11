@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 我目前工作在上海的MYAI，是一家餐饮领域的AI科技企业
 
-- 🌱 目前我正在参与餐饮领域的AI产品研发，之前我在YOYO研发识别零食/蔬菜/水果的AI算法
+- 🌱 目前我在开发连锁餐饮门店的AI产品，之前我研发了在超市/门店识别零食/蔬菜/水果的AI算法
 
 - 👯 欢迎参与另外两个组织：<a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>和<a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 

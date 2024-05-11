@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 - 🔭 I work at MYAI in Shanghai. We're an AI tech company focusing on the catering.
 
-- 🌱 I'm currently working on AI product development for the catering.
+- 🌱 Currently, I am developing AI products for chain catering stores.
 
-- 🌱 Previously, I developed AI algorithms for identifying snacks/vegetables/fruits at YOYO.
+- 🌱 Previously, I developed AI algorithms for identifying snacks, vegetables, and fruits in supermarkets/stores.
 
 - 👯 Welcome to the other two organizations: <a href="https://github.com/ZJCV/"><img src="https://img.shields.io/github/stars/zjcv?label=ZJCV&style=social" /></a>  and <a href="https://github.com/ZJDoc/"><img src="https://img.shields.io/github/stars/zjdoc?label=ZJDoc&style=social" /></a>
 
