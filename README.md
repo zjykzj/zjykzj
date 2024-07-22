@@ -7,7 +7,7 @@
 <!-- GitHub Profile Header -->
 <h1 align="center">ZJYKZJ</h1>
 <p align="center">
-  <em>🎯 AI Engineer at <strong>MYAI</strong>, Shanghai, crafting the future of smart dining experiences.</em>
+  <em>🎯 AI Engineer at <a href="https://www.myai.tech/#/home" target="_blank"><strong>MYAI</strong></a>, Shanghai, crafting the future of smart dining experiences.</em>
 </p>
 
 <!-- Current Work -->

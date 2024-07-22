@@ -7,7 +7,7 @@
 <!-- GitHub 个人资料头部 -->
 <h1 align="center">ZJYKZJ</h1>
 <p align="center">
-  <em>🎯 在<strong>MYAI</strong>担任AI工程师，位于上海，致力于打造智能餐饮体验的未来。</em>
+  <em>🎯 在<a href="https://www.myai.tech/#/home" target="_blank"><strong>MYAI</strong></a>担任AI工程师，位于上海，致力于打造智能餐饮体验的未来。</em>
 </p>
 
 <!-- 当前工作 -->
@@ -19,7 +19,7 @@
 <!-- 以往工作 -->
 <h2 align="center">过往项目</h2>
 <p align="center">
-  💡 <strong>创新算法开发：</strong> 我参与并主导的AI算法能在超市环境下精确识别各种零食、蔬菜和水果，大幅改善了库存管理和结账流程。
+  💡 <strong>创新算法开发：</strong> 我参与并主导的AI算法能在超市和零食门店中精确识别各种零食、蔬菜和水果，大幅改善库存管理和结账流程。
 </p>
 
 <!-- 更多信息 -->
