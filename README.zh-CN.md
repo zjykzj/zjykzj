@@ -27,3 +27,8 @@
 <p align="center">
   📄 若要深入了解我的背景和项目，请访问我的<a href="https://blog.zjykzj.cn/about/">主页</a>。
 </p>
+
+<!-- Visitor Count Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zjykzj&color=blue&label=PROFILE+VIEWS&abbreviated=true" alt="Visitor Count">
+</p>
