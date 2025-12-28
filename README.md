@@ -15,7 +15,7 @@
 
 ### 🔧 Current Focus
 
-- Evaluating and porting models to heterogeneous edge platforms—including **NVIDIA Jetson/Orin**, **SOPHON (Sugon)**, **Huawei Ascend**, **Moore Threads**, **Horizon Robotics**, and **Rockchip RKNN**—to enable cost-effective, scalable AI deployment in smart dining scenarios.
+- Evaluating and porting models to heterogeneous edge platforms—including **NVIDIA Jetson**, **Huawei Ascend**, **Moore Threads**, **Horizon Robotics**, **SOPHON** and **Rockchip RKNN**—to enable cost-effective, scalable AI deployment in smart dining scenarios.
 - Designing a **cross-platform inference engine** supporting diverse algorithms across edge devices (Jetson, SOPHON, Rockchip, etc.) and GPU servers, with optimized latency and throughput.
 - Building a **unified training framework** that integrates multiple open-source CV pipelines for local server-based model training, validation, and export (e.g., to ONNX/TensorRT).
 
@@ -64,7 +64,10 @@
 ![LLM](https://img.shields.io/badge/LLM-4B9AE5?style=flat)
 
 #### Edge & Embedded Platforms
-![NVIDIA Jetson Xavier](https://img.shields.io/badge/NVIDIA_Jetson_Xavier-76B900?logo=nvidia&logoColor=white)
-![NVIDIA Orin](https://img.shields.io/badge/NVIDIA_Orin-76B900?logo=nvidia&logoColor=white)
-![SOPHON (Sugon)](https://img.shields.io/badge/SOPHON-0066CC?style=flat)
+
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?logo=nvidia&logoColor=white)
+![Huawei Ascend](https://img.shields.io/badge/Huawei_Ascend-FF0000?logo=huawei&logoColor=white)
+![Moore Threads](https://img.shields.io/badge/Moore_Threads-00A0E9?logoColor=white)
+![Horizon Robotics](https://img.shields.io/badge/Horizon_Robotics-00C853?logoColor=white)
+![SOPHON](https://img.shields.io/badge/SOPHON-0066CC?style=flat)
 ![Rockchip RKNN](https://img.shields.io/badge/Rockchip_RKNN-EA4335?logo=rockchip&logoColor=white)
