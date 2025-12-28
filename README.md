@@ -15,9 +15,9 @@
 
 ### 🔧 Current Focus
 
-- **Edge AI Deployment**: Porting and optimizing vision models for heterogeneous edge platforms.
-- **Cross-Platform Inference Engine**: Enables unified deployment of vision tasks and **multimodal large models** across diverse edge devices and GPU servers.
-- **Unified Training Framework**: Integrates open-source CV repositories for local training, validation, and export to **ONNX**/**TensorRT**.
+- **Edge Hardware Adaptation**: Investigates and integrates support for vision and multimodal models on heterogeneous edge AI platforms.
+- **Heterogeneous Platform Deployment**: Enables deployment of computer vision and multimodal LLM across diverse edge devices and GPU servers with varying hardware architectures.  
+- **Unified Training Framework**: Integrates open-source computer vision repositories to support local training, validation, and model export.  
 
 <!-- ---
 
@@ -68,5 +68,6 @@
 ![Huawei Ascend](https://img.shields.io/badge/Huawei_Ascend-FF0000?logo=huawei&logoColor=white)
 ![Moore Threads](https://img.shields.io/badge/Moore_Threads-00A0E9?logoColor=white)
 ![Horizon Robotics](https://img.shields.io/badge/Horizon_Robotics-00C853?logoColor=white)
-![SOPHON](https://img.shields.io/badge/SOPHON-0066CC?style=flat)
 ![Rockchip RKNN](https://img.shields.io/badge/Rockchip_RKNN-EA4335?logo=rockchip&logoColor=white)
+![SOPHON](https://img.shields.io/badge/SOPHON-0066CC?style=flat)
+![Hikvision](https://img.shields.io/badge/Hikvision-C60000?style=flat&logoColor=white)
