@@ -60,8 +60,7 @@
 ![TensorRT](https://img.shields.io/badge/TensorRT-FF4500?logo=nvidia&logoColor=white)
 ![Triton Inference Server](https://img.shields.io/badge/Triton_Inference_Server-FF4500?logo=nvidia&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-F2A900?style=flat&logoColor=black)
-![AI Agent](https://img.shields.io/badge/AI_Agent-8A2BE2?style=flat)
-![LLM](https://img.shields.io/badge/LLM-4B9AE5?style=flat)
+![Multimodal LLM](https://img.shields.io/badge/LLM-4B9AE5?style=flat)
 
 #### Edge & Embedded Platforms
 
