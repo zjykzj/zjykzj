@@ -15,8 +15,8 @@
 
 ### 🔧 Current Focus
 
-- **Edge AI Deployment**: Porting and optimizing vision models for heterogeneous edge platforms — **Jetson**, **Ascend**, **Moore Threads**, **Horizon**, **SOPHON**, **RKNN**.
-- **Cross-Platform Inference Engine**: Enables unified deployment of vision tasks (**classification**, **detection**, **segmentation**) and **multimodal large models** across diverse edge devices and GPU servers.
+- **Edge AI Deployment**: Porting and optimizing vision models for heterogeneous edge platforms.
+- **Cross-Platform Inference Engine**: Enables unified deployment of vision tasks and **multimodal large models** across diverse edge devices and GPU servers.
 - **Unified Training Framework**: Integrates open-source CV repositories for local training, validation, and export to **ONNX**/**TensorRT**.
 
 ---
