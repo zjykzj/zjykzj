@@ -15,9 +15,9 @@
 
 ### 🔧 Current Focus
 
-- Evaluating and porting models to heterogeneous edge platforms—including **NVIDIA Jetson**, **Huawei Ascend**, **Moore Threads**, **Horizon Robotics**, **SOPHON** and **Rockchip RKNN**—to enable cost-effective, scalable AI deployment in smart dining scenarios.
-- Designing a **cross-platform inference engine** supporting diverse algorithms across edge devices (Jetson, SOPHON, Rockchip, etc.) and GPU servers, with optimized latency and throughput.
-- Building a **unified training framework** that integrates multiple open-source CV pipelines for local server-based model training, validation, and export (e.g., to ONNX/TensorRT).
+- **Edge AI Deployment**: Porting and optimizing vision models for heterogeneous edge platforms — **Jetson**, **Ascend**, **Moore Threads**, **Horizon**, **SOPHON**, **RKNN**.
+- **Cross-Platform Inference Engine**: Enables unified deployment of vision tasks (**classification**, **detection**, **segmentation**) and **multimodal large models** across diverse edge devices and GPU servers.
+- **Unified Training Framework**: Integrates open-source CV repositories for local training, validation, and export to **ONNX**/**TensorRT**.
 
 ---
 
@@ -40,22 +40,22 @@
 ### 🧰 Tech Stack
 
 #### Languages & Tools
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-2D8045?logo=celery&logoColor=white)
 
 #### Build & Deployment
-![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Gitea Actions](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white)
 
 #### Computer Vision & AI
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-00A1F1?logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-FF4500?logo=nvidia&logoColor=white)
 ![Triton Inference Server](https://img.shields.io/badge/Triton_Inference_Server-FF4500?logo=nvidia&logoColor=white)
