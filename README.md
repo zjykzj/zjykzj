@@ -19,7 +19,7 @@
 - **Cross-Platform Inference Engine**: Enables unified deployment of vision tasks and **multimodal large models** across diverse edge devices and GPU servers.
 - **Unified Training Framework**: Integrates open-source CV repositories for local training, validation, and export to **ONNX**/**TensorRT**.
 
----
+<!-- ---
 
 ### 💼 Experience
 
@@ -33,7 +33,7 @@
 
 - **Jun 2020 – May 2021**  
   **Algorithm Engineer** @ [WebAce-I3C](www.webace-i3c.com)  
-  → Researched and implemented computer vision pipelines for industrial applications.
+  → Researched and implemented computer vision pipelines for industrial applications. -->
 
 ---
 
