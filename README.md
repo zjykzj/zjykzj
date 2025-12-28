@@ -1,8 +1,8 @@
-<div align="right">
+<!-- <div align="right">
   Language:
     🇺🇸
   <a title="Chinese" href="./README.zh-CN.md">🇨🇳</a>
-</div>
+</div> -->
 
 <h1 align="center">ZJYKZJ</h1>
 
@@ -68,5 +68,3 @@
 ![NVIDIA Orin](https://img.shields.io/badge/NVIDIA_Orin-76B900?logo=nvidia&logoColor=white)
 ![SOPHON (Sugon)](https://img.shields.io/badge/SOPHON-0066CC?style=flat)
 ![Rockchip RKNN](https://img.shields.io/badge/Rockchip_RKNN-EA4335?logo=rockchip&logoColor=white)
-
----
