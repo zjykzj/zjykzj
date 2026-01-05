@@ -59,8 +59,11 @@
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-00A1F1?logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-FF4500?logo=nvidia&logoColor=white)
 ![Triton Inference Server](https://img.shields.io/badge/Triton_Inference_Server-FF4500?logo=nvidia&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-F2A900?style=flat&logoColor=black)
-![Multimodal LLM](https://img.shields.io/badge/LLM-4B9AE5?style=flat)
+![vLLM](https://img.shields.io/badge/vLLM-00A7E1?style=flat&logoColor=white)
+![SGLang](https://img.shields.io/badge/SGLang-000000?style=flat&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-006BB6?style=flat)
+![YOLOv6](https://img.shields.io/badge/YOLOv6-F2A900?style=flat&logo=yolo&logoColor=black)
+![PaddleYOLO](https://img.shields.io/badge/PaddleYOLO-00BFFF?style=flat&logo=paddlepaddle&logoColor=white)
 
 #### Edge & Embedded Platforms
 
