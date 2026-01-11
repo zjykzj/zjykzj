@@ -46,12 +46,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-2D8045?logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
 #### Build & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Gitea Actions](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Gitea Actions](https://img.shields.io/badge/Gitea%20Actions-609926?logo=gitea&logoColor=white)
 
 #### Computer Vision & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -62,8 +65,8 @@
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-00A1F1?logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-FF4500?logo=nvidia&logoColor=white)
 ![Triton Inference Server](https://img.shields.io/badge/Triton_Inference_Server-FF4500?logo=nvidia&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-00A7E1?style=flat&logoColor=white)
-![SGLang](https://img.shields.io/badge/SGLang-000000?style=flat&logoColor=white)
+<!-- ![vLLM](https://img.shields.io/badge/vLLM-00A7E1?style=flat&logoColor=white) -->
+<!-- ![SGLang](https://img.shields.io/badge/SGLang-000000?style=flat&logoColor=white) -->
 
 #### Edge & Embedded Platforms
 
