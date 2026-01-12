@@ -52,19 +52,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=Nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![Gitea Actions](https://img.shields.io/badge/Gitea%20Actions-609926?logo=gitea&logoColor=white)
 
 #### Computer Vision & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-006BB6?style=flat)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-006BB6?logo=ultralytics&style=flat)
 ![YOLOv6](https://img.shields.io/badge/YOLOv6-F2A900?style=flat&logo=yolo&logoColor=black)
 ![PaddleYOLO](https://img.shields.io/badge/PaddleYOLO-00BFFF?style=flat&logo=paddlepaddle&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-00A1F1?logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-FF4500?logo=nvidia&logoColor=white)
-![Triton Inference Server](https://img.shields.io/badge/Triton_Inference_Server-FF4500?logo=nvidia&logoColor=white)
+![NVIDIA TensorRT](https://img.shields.io/badge/NVIDIA_TensorRT-FF4500?logo=nvidia&logoColor=white)
+![NVIDIA Triton Inference Server](https://img.shields.io/badge/NVIDIA_Triton_Inference_Server-FF4500?logo=nvidia&logoColor=white)
 <!-- ![vLLM](https://img.shields.io/badge/vLLM-00A7E1?style=flat&logoColor=white) -->
 <!-- ![SGLang](https://img.shields.io/badge/SGLang-000000?style=flat&logoColor=white) -->
 
@@ -75,5 +75,5 @@
 ![Moore Threads](https://img.shields.io/badge/Moore_Threads-00A0E9?logoColor=white)
 ![Horizon Robotics](https://img.shields.io/badge/Horizon_Robotics-00C853?logoColor=white)
 ![Rockchip RKNN](https://img.shields.io/badge/Rockchip_RKNN-EA4335?logo=rockchip&logoColor=white)
-![SOPHON](https://img.shields.io/badge/SOPHON-0066CC?style=flat)
-![Hikvision](https://img.shields.io/badge/Hikvision-C60000?style=flat&logoColor=white)
+![SOPHON](https://img.shields.io/badge/SOPHON-0066CC?logo=sophon&style=flat)
+![Hikvision](https://img.shields.io/badge/Hikvision-C60000?logo=hikvision&style=flat&logoColor=white)
