@@ -8,20 +8,20 @@
 
 ### 👋 About
 
-I work on the engineering side of computer vision — model development, inference optimization, and edge deployment. My interests include object detection, model compression, and cross-platform hardware adaptation. I write about reproducing papers, engineering pitfalls, and developer workflows. I believe a model's value is ultimately measured by how it performs in production.
+I work on the engineering side of computer vision — model development, inference optimization, and edge deployment. I believe a model's value is measured by how it performs on real hardware.
 
 ---
 
-### 🎯 What I Work On
+### 🎯 Focus
 
 **Vision Models**
-Object detection, image segmentation, OCR, face detection/recognition, pedestrian attribute recognition, fine-grained classification, and other core CV tasks. Experienced with the YOLO family, CRNN/CTC, multimodal models, and turning research papers into production-ready implementations.
+Object detection, segmentation, OCR, face, ReID, fine-grained classification. YOLO family, CRNN/CTC, multimodal models — from paper to production.
 
 **Model Engineering**
-Model export (ONNX / TensorRT), compression (pruning / distillation / quantization), and inference serving with Triton Inference Server. Building toolkits for the full CV workflow — from data processing and model export to inference and evaluation, across ONNX Runtime, TensorRT, and Triton backends.
+ONNX, TensorRT, Triton. Pruning, distillation, quantization. CV workflow toolkits spanning data processing, model export, inference, and evaluation.
 
 **Edge Deployment**
-Inference engineering across heterogeneous hardware — NVIDIA Jetson (ORIN / Xavier), Huawei Ascend, SOPHON (BM1684x), Horizon Robotics (RDK S100), Rockchip RKNN, and more. Covers C++ video stream processing, model acceleration, and multi-stream concurrent serving.
+NVIDIA Jetson, Huawei Ascend, SOPHON, Horizon, Rockchip RKNN. C++ multi-stream inference, model acceleration, cross-platform adaptation.
 
 ---
 
@@ -57,4 +57,3 @@ Inference engineering across heterogeneous hardware — NVIDIA Jetson (ORIN / Xa
 ![Horizon Robotics](https://img.shields.io/badge/Horizon-009E42?style=flat-square&logoColor=white)
 ![Rockchip RKNN](https://img.shields.io/badge/RKNN-B8352A?style=flat-square&logo=rockchip&logoColor=white)
 ![Moore Threads](https://img.shields.io/badge/Moore_Threads-007DB8?style=flat-square&logoColor=white)
-
