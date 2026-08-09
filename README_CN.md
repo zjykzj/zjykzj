@@ -30,12 +30,14 @@ NVIDIA Jetson、华为 Ascend、算能 SOPHON、地平线、Rockchip RKNN。C++ 
 #### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004477?style=flat-square&logo=c%2B%2B&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-2E3436?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 #### Computer Vision & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-C93426?style=flat-square&logo=pytorch&logoColor=white)
+![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4635B5?style=flat-square&logo=opencv&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-005299?style=flat-square&logo=ultralytics&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-0085C3?style=flat-square&logo=onnx&logoColor=white)
@@ -45,9 +47,12 @@ NVIDIA Jetson、华为 Ascend、算能 SOPHON、地平线、Rockchip RKNN。C++ 
 #### Infrastructure & Deployment
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=flat-square&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-333333?style=flat-square&logo=flask&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-377650?style=flat-square&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-CC5200?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-007A33?style=flat-square&logo=Nginx&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-186DE2?style=flat-square&logo=github-actions&logoColor=white)
 
 #### Edge Platforms
