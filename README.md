@@ -25,6 +25,17 @@ NVIDIA Jetson, Huawei Ascend, SOPHON, Horizon, Rockchip RKNN. C++ multi-stream i
 
 ---
 
+### 🚀 Projects
+
+| Project | Description |
+| --- | --- |
+| [DataFlow-CV](https://github.com/zjykzj/DataFlow-CV) | Everything your model doesn't do. Analyse, convert, visualize, evaluate — a single CLI for all CV data. |
+| [llamafactory-lora-vllm](https://github.com/zjykzj/llamafactory-lora-vllm) | LLaMA-Factory LoRA fine-tuning → vLLM serving |
+| [ZJCV](https://github.com/ZJCV) ![Stars](https://img.shields.io/badge/Stars-288-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) | DL paper reproductions & training frameworks — classification, video action recognition, distillation & pruning *(archived)* |
+| [ZJDoc](https://github.com/ZJDoc) ![Stars](https://img.shields.io/badge/Stars-222-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) | Engineering guides & docs — Git, Linux, deployment, vision & tooling |
+
+---
+
 ### 🧰 Tech Stack
 
 #### Languages & Tools

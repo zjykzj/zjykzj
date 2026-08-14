@@ -25,6 +25,17 @@ NVIDIA Jetson、华为 Ascend、算能 SOPHON、地平线、Rockchip RKNN。C++ 
 
 ---
 
+### 🚀 项目
+
+| 项目 | 简介 |
+| --- | --- |
+| [DataFlow-CV](https://github.com/zjykzj/DataFlow-CV) | 模型不做的一切——分析、转换、可视化、评估，一个 CLI 全搞定 |
+| [llamafactory-lora-vllm](https://github.com/zjykzj/llamafactory-lora-vllm) | LLaMA-Factory LoRA 微调 → vLLM 高性能推理 |
+| [ZJCV](https://github.com/ZJCV) ![Stars](https://img.shields.io/badge/Stars-288-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) | 深度学习论文复现与训练框架——图像分类、视频动作识别、知识蒸馏与剪枝 *（已归档）* |
+| [ZJDoc](https://github.com/ZJDoc) ![Stars](https://img.shields.io/badge/Stars-222-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) | 工程文档与指南——Git、Linux、部署、视觉与工具链 |
+
+---
+
 ### 🧰 Tech Stack
 
 #### Languages & Tools
