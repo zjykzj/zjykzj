@@ -23,16 +23,20 @@ ONNX, TensorRT, Triton. Pruning, distillation, quantization. CV workflow toolkit
 **Edge Deployment**
 NVIDIA Jetson, Huawei Ascend, SOPHON, Horizon, Rockchip RKNN. C++ multi-stream inference, model acceleration, cross-platform adaptation.
 
+**LLM & Multimodal**
+LLaMA-Factory LoRA fine-tuning, instruction-data & prompt engineering. vLLM serving — LoRA direct or merged weights. Evaluation & benchmarking via OpenAI-compatible APIs.
+
 ---
 
 ### 🚀 Projects
 
 | Project | Description |
 | --- | --- |
-| [DataFlow-CV](https://github.com/zjykzj/DataFlow-CV) | Everything your model doesn't do. Analyse, convert, visualize, evaluate — a single CLI for all CV data. |
-| [llamafactory-lora-vllm](https://github.com/zjykzj/llamafactory-lora-vllm) | LLaMA-Factory LoRA fine-tuning → vLLM serving |
-| [ZJCV · Organization](https://github.com/ZJCV) | DL paper reproductions & training frameworks — classification, video action recognition, distillation & pruning *(archived)* ![Stars](https://img.shields.io/badge/Stars-288-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) |
-| [ZJDoc · Organization](https://github.com/ZJDoc) | Engineering guides & docs — Git, Linux, deployment, vision & tooling *(archived)* ![Stars](https://img.shields.io/badge/Stars-222-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) |
+| [DataFlow-CV](https://github.com/zjykzj/DataFlow-CV) | 🌊 Everything your model doesn't do. Analyse, convert, visualize, evaluate — a single CLI for all CV data. |
+| [InferForge](https://github.com/zjykzj/InferForge) | 🔨 From kernel to service — InferForge forges any model (CV → LLM → Agent) into production |
+| [llamafactory-lora-vllm](https://github.com/zjykzj/llamafactory-lora-vllm) | 🦙 LoRA fine-tuning with LLaMA-Factory → high-performance inference deployment via vLLM |
+| [ZJCV · Organization](https://github.com/ZJCV) | 📚 DL paper reproductions & training frameworks — classification, video action recognition, distillation & pruning *(archived)* ![Stars](https://img.shields.io/badge/Stars-288-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) |
+| [ZJDoc · Organization](https://github.com/ZJDoc) | 📖 Engineering guides & docs — Git, Linux, deployment, vision & tooling *(archived)* ![Stars](https://img.shields.io/badge/Stars-222-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) |
 
 ---
 
