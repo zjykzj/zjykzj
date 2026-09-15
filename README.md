@@ -33,7 +33,7 @@ LLaMA-Factory LoRA fine-tuning, instruction-data & prompt engineering. vLLM serv
 | Project | Description |
 | --- | --- |
 | [DataFlow-CV](https://github.com/zjykzj/DataFlow-CV) | 🌊 Everything your model doesn't do. Analyse, convert, visualize, evaluate — a single CLI for all CV data. |
-| [InferForge](https://github.com/zjykzj/InferForge) | 🔨 From kernel to service — InferForge forges any model (CV → LLM → Agent) into production |
+| [InferForge](https://github.com/zjykzj/InferForge) | 🔨 From model to HTTP service — agents forge vision models into production. |
 | [llamafactory-lora-vllm](https://github.com/zjykzj/llamafactory-lora-vllm) | 🦙 LoRA fine-tuning with LLaMA-Factory → high-performance inference deployment via vLLM |
 | [ZJCV · Organization](https://github.com/ZJCV) | 📚 DL paper reproductions & training frameworks — classification, video action recognition, distillation & pruning *(archived)* ![Stars](https://img.shields.io/badge/Stars-288-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) |
 | [ZJDoc · Organization](https://github.com/ZJDoc) | 📖 Engineering guides & docs — Git, Linux, deployment, vision & tooling *(archived)* ![Stars](https://img.shields.io/badge/Stars-222-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) |

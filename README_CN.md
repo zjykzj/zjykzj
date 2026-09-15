@@ -33,7 +33,7 @@ LLaMA-Factory LoRA 微调、指令数据与提示词工程。vLLM 高性能推�
 | 项目 | 简介 |
 | --- | --- |
 | [DataFlow-CV](https://github.com/zjykzj/DataFlow-CV) | 🌊 模型不做的一切——分析、转换、可视化、评估，一个 CLI 全搞定 |
-| [InferForge](https://github.com/zjykzj/InferForge) | 🔨 从推理内核到部署——InferForge 把任何模型（CV → LLM → Agent）锻造成生产服务 |
+| [InferForge](https://github.com/zjykzj/InferForge) | 🔨 从模型到 HTTP 服务 — Agent 把视觉模型锻造成生产服务。 |
 | [llamafactory-lora-vllm](https://github.com/zjykzj/llamafactory-lora-vllm) | 🦙 LLaMA-Factory LoRA 微调 → vLLM 高性能推理部署 |
 | [ZJCV · 组织](https://github.com/ZJCV) | 📚 深度学习论文复现与训练框架——图像分类、视频动作识别、知识蒸馏与剪枝 *（已归档）* ![Stars](https://img.shields.io/badge/Stars-288-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) |
 | [ZJDoc · 组织](https://github.com/ZJDoc) | 📖 工程文档与指南——Git、Linux、部署、视觉与工具链 *（已归档）* ![Stars](https://img.shields.io/badge/Stars-222-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) |
