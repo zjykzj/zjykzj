@@ -33,10 +33,10 @@ LLaMA-Factory LoRA fine-tuning, instruction-data & prompt engineering. vLLM serv
 | Project | Description |
 | --- | --- |
 | [DataFlow-CV](https://github.com/zjykzj/DataFlow-CV) | 🌊 Everything your model doesn't do. Analyse, convert, visualize, evaluate — a single CLI for all CV data. |
-| [Flash-YOLO](https://github.com/zjykzj/flash-yolo) | ⚡ Real-time speed, end-to-end training — a complete, independent framework for lightweight detection. |
+| [Flash-YOLO](https://github.com/zjykzj/flash-yolo) | ⚡ A super-lightweight, fully independent real-time vision framework — detection, segmentation, pose & YOLOE-26 |
 | [llamafactory-lora-vllm](https://github.com/zjykzj/llamafactory-lora-vllm) | 🦙 LoRA fine-tuning with LLaMA-Factory → high-performance inference deployment via vLLM |
-| [ZJCV · Organization](https://github.com/ZJCV) | 📚 DL paper reproductions & training frameworks — classification, video action recognition, distillation & pruning *(archived)* ![Stars](https://img.shields.io/badge/Stars-288-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) |
-| [ZJDoc · Organization](https://github.com/ZJDoc) | 📖 Engineering guides & docs — Git, Linux, deployment, vision & tooling *(archived)* ![Stars](https://img.shields.io/badge/Stars-222-181717?style=flat-square&logo=github&logoColor=white&labelColor=24292f&color=181717) |
+| [ZJCV · Organization](https://github.com/ZJCV) | 📚 DL paper reproductions & training frameworks — classification, video action recognition, distillation & pruning *(archived)* ![Stars](https://img.shields.io/github/stars/ZJCV?style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=24292f&color=181717) |
+| [ZJDoc · Organization](https://github.com/ZJDoc) | 📖 Engineering guides & docs — Git, Linux, deployment, vision & tooling *(archived)* ![Stars](https://img.shields.io/github/stars/ZJDoc?style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=24292f&color=181717) |
 
 ---
 
@@ -58,6 +58,10 @@ LLaMA-Factory LoRA fine-tuning, instruction-data & prompt engineering. vLLM serv
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-0085C3?style=flat-square&logo=onnx&logoColor=white)
 ![NVIDIA TensorRT](https://img.shields.io/badge/TensorRT-DA4800?style=flat-square&logo=nvidia&logoColor=white)
 ![Triton Inference Server](https://img.shields.io/badge/Triton-DA4800?style=flat-square&logo=nvidia&logoColor=white)
+
+#### LLM & Serving
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=white)
+![LLaMA-Factory](https://img.shields.io/static/v1?label=&message=LLaMA-Factory&color=7C3AED&style=flat-square&logoColor=white)
 
 #### Infrastructure & Deployment
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=flat-square&logo=docker&logoColor=white)
